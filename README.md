@@ -1,7 +1,7 @@
 Measures of central tendency, measures of spread
 
-You are given house_price.csv which contains property prices in the city of Bangalore. You need to examine price per square feet do the following:
-Perform following measures, detect and remove outliers using IQR
+house_price.csv which contains property prices in the city of Bangalore and examined price per square feet do the following:
+
  Mean Function
 Percentile method
 IQR(Inter quartile range method)
